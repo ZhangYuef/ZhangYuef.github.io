@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Lippi-浮生志</title>
+ <link href="http://http://coolshell.info/atom.xml" rel="self"/>
+ <link href="http://http://coolshell.info"/>
+ <updated>2017-02-28T00:29:46+08:00</updated>
+ <author>
+   <name>Lippi.OuYang</name>
+   <email>ouyanglip@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>初次见面</title>
+   <link href="http://http://coolshell.info/blog/2017/02/Nice-to-Meet-You.html"/>
+   <updated>2017-02-28T00:24:43+08:00</updated>
+   <id>/blog/2017/02/Nice-to-Meet-You</id>
+   <content type="html">&lt;h3 id=&quot;你好啊&quot;&gt;你好啊&lt;/h3&gt;
+&lt;h3 id=&quot;见面真不容易&quot;&gt;见面真不容易！&lt;/h3&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
