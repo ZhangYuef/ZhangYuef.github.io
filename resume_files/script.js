@@ -8,10 +8,10 @@ $(document).ready(function($){
 })
 
 
-
-
-
 /*
+
+
+
 if (!String.prototype.format) {
   String.prototype.format = function() {
     var args = arguments;
@@ -101,5 +101,4 @@ jQuery(document).ready(function($) {
     // $("*").removeAttr('contenteditable');
 
 });
-
 */
