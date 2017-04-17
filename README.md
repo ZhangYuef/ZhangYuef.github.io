@@ -1,6 +1,6 @@
+### personal page
 
-=======
-# ZhangYuef.github.io
-My github page
-# @ https://zhangyuef.github.io/
->>>>>>> origin/master
+# [https://zhangyuef.github.io/](https://zhangyuef.github.io/)
+- Static 
+- Amination
+- Resume Page
