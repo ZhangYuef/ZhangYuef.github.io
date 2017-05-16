@@ -23,3 +23,14 @@ tags:
              }
 ```
 2. Android.mk Application.mk 编码设为UTF8
+
+- Error:FAILURE: Build failed with an exception.
+  + What went wrong:
+Execution failed for task ':app:compileDebugNdk'.
+> Error: Your project contains C++ files but it is not using a supported native build system.
+Consider using CMake or ndk-build integration with the stable Android Gradle plugin:
+ https://developer.android.com/studio/projects/add-native-code.html
+or use the experimental plugin:
+ http://tools.android.com/tech-docs/new-build-system/gradle-experimental.
+  + Try:
+Run with --stacktrace option to get the stack trace. Run with --debug option to get more log output.
